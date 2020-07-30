@@ -1,3 +1,6 @@
+![Alt Text](https://j.gifs.com/OMBMLr.gif)          ![Alt Text](https://j.gifs.com/r848Vp.gif)
+
+
 # Deep-Reinforcement-Learning-Notebooks
 This Repository contains a series of google colab notebooks which I created to help people dive into deep reinforcement learning.This notebooks contains both theory and implementation of different algorithms. 
 
