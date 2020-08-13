@@ -16,3 +16,12 @@ Following is the content of the Notebooks of till now:
 5) The fifth Notebook is a bit advance value based algorithm called Double DQN with Prioritized Experience Replay(PER) and target networks.This Notebook talks about some problems we have while using the Deep Q-Networks algorithm (DQN) and how we can improve DQN. This Notebook introduces concept of target network, double dqn and Prioritized Experience Replay and how we can combine them to make DQN more stable and efficient.Environment used  here is KungFuMaster-v0
 
 6) The sixth Notebook is an algorithm called Advantage Actor-Critic (A2C) which elegantly combine the policy gradient and a learned value function. This Notebook starts with providing the concept of advantage function and various methods of estimating advantage. Then we discuss the implementation of A2C. In the code I have also written about how add regularisation in Actor model with the help of entropy of policy
+
+
+
+
+Credits: A lot of theory part is taken from Book:Foundations of Deep Reinforcement Learning By Graesser Laura and  Keng Wah Loon. 
+
+Codes are not taken from anywhere so if you face any issue you can contact me at rcstark3614@gmail.com. 
+
+Any one who wishes to contibute can make a pull request. You can add new algorithms but please also add explanations on your code.
