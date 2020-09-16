@@ -8,6 +8,8 @@
 
 ![Alt Text](https://github.com/Rahul-Choudhary-3614/Deep-Reinforcement-Learning-Notebooks/blob/master/Demos/Ant.gif)
 
+![Alt Text](https://github.com/Rahul-Choudhary-3614/Deep-Reinforcement-Learning-Notebooks/blob/master/Demos/Half-cheetah.mp4)
+
 # Deep-Reinforcement-Learning-Notebooks
 This Repository contains a series of google colab notebooks which I created to help people dive into deep reinforcement learning.This notebooks contains both theory and implementation of different algorithms. 
 
