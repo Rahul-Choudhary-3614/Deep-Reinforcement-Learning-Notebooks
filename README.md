@@ -26,7 +26,7 @@ Following is the content of the Notebooks of till now:
 
 6) The sixth Notebook contains an algorithm called Advantage Actor-Critic (A2C) which elegantly combine the policy gradient and a learned value function. This Notebook starts with providing the concept of advantage function and various methods of estimating advantage. Then we discuss the implementation of A2C. In the code I have also written about how add regularisation in Actor model with the help of entropy of policy
 
-7) The seventh Notebook contains an algorithm called Deep Determinsitic Policy Gradients(DDPG).Deep Deterministic Policy Gradient (DDPG) is a model-free off-policy algorithm for learning continous actions.
+7) The seventh Notebook contains an algorithm called Deep Deterministic Policy Gradients(DDPG).Deep Deterministic Policy Gradient (DDPG) is a model-free off-policy algorithm for learning continous actions.
 It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Network). It uses Experience Replay and slow-learning target networks from DQN, and it is based on DPG, which can operate over continuous action spaces.
 
 8) The Eighth Notebook contains an algorithm called Proximal Policy Optimization (PPO) extending Actor- Critic Algorithm.It is a another family of policy gradient methods for reinforcement learning, which alternate between sampling data through interaction with the environment, and optimizing a "surrogate" objective function using stochastic gradient ascent.
