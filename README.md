@@ -31,6 +31,7 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 
 8) The Eighth Notebook contains an algorithm called Proximal Policy Optimization (PPO) extending Actor- Critic Algorithm.It is a another family of policy gradient methods for reinforcement learning, which alternate between sampling data through interaction with the environment, and optimizing a "surrogate" objective function using stochastic gradient ascent.
 
+9) The Ninth Notebook contains an algorithm called Soft Actor-Critic (SAC): Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor. It is policy maximum entropy actor-critic algorithm which provides for both sample- efficient learning and stability.This algorithm extends readily to very complex, high-dimensional tasks. 
 
 Credits: A lot of theory part is taken from Book:Foundations of Deep Reinforcement Learning By Graesser Laura and  Keng Wah Loon. 
 
