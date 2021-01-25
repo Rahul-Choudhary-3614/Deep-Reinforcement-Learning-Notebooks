@@ -10,6 +10,10 @@
 
 ![Alt Text](https://github.com/Rahul-Choudhary-3614/Deep-Reinforcement-Learning-Notebooks/blob/master/Demos/Half-Cheetah.gif)
 
+![Alt Text](https://github.com/Rahul-Choudhary-3614/Deep-Reinforcement-Learning-Notebooks/blob/master/Demos/Half-Cheetah.gif)
+
+![Alt Text](https://github.com/Rahul-Choudhary-3614/Deep-Reinforcement-Learning-Notebooks/blob/master/Demos/Doom_Death_Match.gif)
+
 # Deep-Reinforcement-Learning-Notebooks
 This Repository contains a series of google colab notebooks which I created to help people dive into deep reinforcement learning.This notebooks contains both theory and implementation of different algorithms. 
 
@@ -37,6 +41,9 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 
 Credits: A lot of theory part for initial few notebooks is taken from Book:Foundations of Deep Reinforcement Learning By Graesser Laura and  Keng Wah Loon. 
 
+References: 1) 
+
 Codes are not taken from anywhere so if you face any issue you can contact me at rcstark3614@gmail.com. 
 
 Any one who wishes to contibute can make a pull request. You can add new algorithms but please also add explanations on your code.
+
