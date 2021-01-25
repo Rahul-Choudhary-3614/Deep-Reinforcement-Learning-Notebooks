@@ -39,9 +39,7 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 
 10) The Tenth Notebook contains an algorithm called Asynchronous Advantage Actor Critic (A3C): A3C is an algorithm similar to A2C but differs in a way that is  Asynchronous i.e. multiple independent agents(networks) with their own weights interact with a different copy of the environment in parallel and  thus explore a bigger part of the state-action space in much less time.
 
-Credits: A lot of theory part for initial few notebooks is taken from Book:Foundations of Deep Reinforcement Learning By Graesser Laura and  Keng Wah Loon. 
-
-References: 1) 
+Credits: A lot of theory part for initial few notebooks is taken from Book:Foundations of Deep Reinforcement Learning By Graesser Laura and  Keng Wah Loon.
 
 Codes are not taken from anywhere so if you face any issue you can contact me at rcstark3614@gmail.com. 
 
