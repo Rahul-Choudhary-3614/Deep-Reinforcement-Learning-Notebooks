@@ -10,7 +10,7 @@
 
 ![Alt Text](https://github.com/Rahul-Choudhary-3614/Deep-Reinforcement-Learning-Notebooks/blob/master/Demos/Half-Cheetah.gif)
 
-![Alt Text](https://github.com/Rahul-Choudhary-3614/Deep-Reinforcement-Learning-Notebooks/blob/master/Demos/Half-Cheetah.gif)
+![Alt Text](https://github.com/Rahul-Choudhary-3614/Deep-Reinforcement-Learning-Notebooks/blob/master/Demos/Car.gif)
 
 ![Alt Text](https://github.com/Rahul-Choudhary-3614/Deep-Reinforcement-Learning-Notebooks/blob/master/Demos/Doom_Death_Match.gif)
 
@@ -38,6 +38,8 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 9) The Ninth Notebook contains an algorithm called Soft Actor-Critic (SAC): Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor. It is policy maximum entropy actor-critic algorithm which provides for both sample- efficient learning and stability. This algorithm extends readily to very complex, high-dimensional tasks. 
 
 10) The Tenth Notebook contains an algorithm called Asynchronous Advantage Actor Critic (A3C): A3C is an algorithm similar to A2C but differs in a way that it is  Asynchronous i.e. multiple independent agents(networks) with their own weights interact with a different copy of the environment in parallel and  thus explore a bigger part of the state-action space in much less time.
+
+11) The Eleventh Notebook contains an algorithm called Noisy Nets: Noisy Nets are way to improve exploration in the environment by adding noise to network parameters
 
 Credits: A lot of theory part for initial few notebooks is taken from Book:Foundations of Deep Reinforcement Learning By Graesser Laura and  Keng Wah Loon.
 
