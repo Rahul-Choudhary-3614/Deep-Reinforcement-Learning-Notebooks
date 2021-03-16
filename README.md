@@ -45,5 +45,3 @@ Credits: A lot of theory part for initial few notebooks is taken from Book:Found
 
 Codes are not taken from anywhere so if you face any issue you can contact me at rcstark3614@gmail.com. 
 
-Any one who wishes to contibute can make a pull request. You can add new algorithms but please also add explanations on your code.
-
