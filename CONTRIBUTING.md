@@ -1,1 +1,1 @@
-Anyone who wishes to contribute can make a pull request. You can add new algorithms but i would appreciate if you provide simple and brief explanations of the algorithm and your implementation. 
+Anyone who wishes to contribute can make a pull request. You can add new algorithms but i would appreciate if you provide simple and brief explanations of the algorithm and your implementation. Also provide references from where you have taken some information you are providing.
