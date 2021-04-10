@@ -43,5 +43,3 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 
 Credits: A lot of theory part for initial few notebooks is taken from Book:Foundations of Deep Reinforcement Learning By Graesser Laura and  Keng Wah Loon.
 
-Codes are not taken from anywhere so if you face any issue you can contact me at rcstark3614@gmail.com. 
-
